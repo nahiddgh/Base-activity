@@ -11,3 +11,5 @@ https://aerodrome.finance/swap?from=eth&to=0x940181a94a35a4569e4529a3cdfb74e38fd
    https://contracts.mintair.xyz/
 5)make swaps on :
 https://swap.cow.fi
+6)swap and add liquidity on:
+https://www.sushi.com/swap?chainId=8453
