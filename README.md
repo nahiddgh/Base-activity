@@ -13,3 +13,5 @@ https://aerodrome.finance/swap?from=eth&to=0x940181a94a35a4569e4529a3cdfb74e38fd
 https://swap.cow.fi
 6)swap and add liquidity on:
 https://www.sushi.com/swap?chainId=8453
+7) a simple useful defi:
+ https://baseswap.fi
