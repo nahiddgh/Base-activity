@@ -15,3 +15,5 @@ https://swap.cow.fi
 https://www.sushi.com/swap?chainId=8453
 7) a simple useful defi:
  https://baseswap.fi
+8) also you can bridge using:
+ https://superbridge.app/
