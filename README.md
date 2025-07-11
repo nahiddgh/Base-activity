@@ -17,3 +17,5 @@ https://www.sushi.com/swap?chainId=8453
  https://baseswap.fi
 8) also you can bridge using:
  https://superbridge.app/
+9) deploy contract using:
+ https://contracts.mintair.xyz/
