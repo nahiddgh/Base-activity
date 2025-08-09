@@ -24,3 +24,5 @@ https://www.sushi.com/swap?chainId=8453
 make sure to complete base learn to get your dc roles , follow the steps:
 refer to https://docs.base.org/base-camp/progress for more informations
 after completing and getting the nfts head to base guild and verify the related tasks
+now coinbase wallet turned into base app 
+update it to see everything new
