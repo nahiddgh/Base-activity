@@ -26,3 +26,5 @@ refer to https://docs.base.org/base-camp/progress for more informations
 after completing and getting the nfts head to base guild and verify the related tasks
 now coinbase wallet turned into base app 
 update it to see everything new
+
+it's an all in one app 🤌🏻🟦 post to earn weekly rewards 
