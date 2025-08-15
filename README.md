@@ -29,3 +29,4 @@ update it to see everything new
 
 it's an all in one app 🤌🏻🟦 post to earn weekly rewards 
 there is also also leaderboard for 10 best accounts and they get paid more than others
+good luck everyone 
