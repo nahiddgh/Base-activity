@@ -32,3 +32,4 @@ there is also also leaderboard for 10 best accounts and they get paid more than 
 good luck everyone 
 
 also there are many building events you can participate in and eatn rewards
+I do opensea voyages so I stay active on base and also stay active on opensea
