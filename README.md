@@ -33,3 +33,4 @@ good luck everyone
 
 also there are many building events you can participate in and eatn rewards
 I do opensea voyages so I stay active on base and also stay active on opensea
+opensea voyages ending on 15sep
