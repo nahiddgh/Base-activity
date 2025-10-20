@@ -1,4 +1,4 @@
-# Base-activity daily
+ # Base-activity daily
 How to stay active on base? I'm gonna teach you some simple ways
 
 1) you can daily check on owlto :
@@ -36,3 +36,6 @@ I do opensea voyages so I stay active on base and also stay active on opensea
 opensea voyages ending on 15sep
 new phase started pre tge
 base token  is about to launch but don't know when so stay tuned...
+
+go to the new guild website and claim your roles:
+https://era.guild.xyz/base
