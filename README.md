@@ -39,3 +39,5 @@ base token  is about to launch but don't know when so stay tuned...
 
 go to the new guild website and claim your roles:
 https://era.guild.xyz/base
+
+stay active on base app, create posts and engage with others
